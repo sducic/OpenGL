@@ -8,3 +8,5 @@ Reseni zadaci iz OpenGL-a
 ![](images/planet.JPG)
 
 ![](images/yard2.JPG)
+
+![](images/grid.JPG)
