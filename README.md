@@ -1,5 +1,5 @@
 # OpenGL
-Reseni zadaci iz OpenGL-a
+Reseni zadaci iz Racunarske grafike
 
 ![](images/kol2014.JPG)
 
